@@ -1,0 +1,17 @@
+http://blog.digitalstruct.com/2008/02/27/php-performance-series-caching-techniques/
+
+http://stackoverflow.com/questions/5914700/php-caching-techniques
+
+http://spotlesswebdesign.com/blog.php?id=17
+
+http://www.theukwebdesigncompany.com/articles/php-caching.php
+
+http://simas.posterous.com/php-data-caching-techniques
+
+http://serverfault.com/questions/184445/how-much-memory-can-i-safely-assign-to-memcached
+
+http://stackoverflow.com/questions/6112324/memcached-using-more-than-max-memory
+
+https://groups.google.com/forum/?fromgroups=#!topic/memcached/Lhh98sx84vg
+
+http://www.cyberciti.biz/tips/setting-up-memcached-on-centos-rhel-fedora-linux.html
