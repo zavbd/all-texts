@@ -1,0 +1,10 @@
+http://stackoverflow.com/questions/10492617/how-can-i-upload-a-file-using-jquerys-ajax-function-with-json-and-php
+
+http://jquery.malsup.com/form/#file-upload
+
+http://www.webdeveloper.com/forum/showthread.php?190680-jQuery-File-Uploading
+
+http://kyokasuigetsu25.wordpress.com/2011/03/29/multiple-file-upload-using-jquery-and-php/
+
+http://www.phpletter.com/Demo/AjaxFileUpload-Demo/
+
