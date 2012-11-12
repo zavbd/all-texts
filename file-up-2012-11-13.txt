@@ -1,0 +1,3 @@
+http://www.onlinesolutionsdevelopment.com/blog/web-development/php/create-multiple-file-uploader-using-php-html-and-jquery/
+
+http://webdeveloperplus.com/jquery/ajax-multiple-file-upload-form-using-jquery/
