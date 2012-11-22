@@ -1,0 +1,11 @@
+http://stackoverflow.com/questions/597159/sending-large-files-reliably-in-php
+
+http://stackoverflow.com/questions/4425227/forced-downloading-large-file-with-php
+
+http://www.phpbook.jp/pear/pear_http_download/
+
+
+http://randomdrake.com/2012/02/08/listing-and-downloading-files-over-sftp-with-php-and-ssh2/
+
+
+http://stackoverflow.com/questions/10981127/is-it-possible-to-download-a-file-from-one-server-sftp-and-upload-it-to-my-ser

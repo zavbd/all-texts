@@ -1,0 +1,10 @@
+http://v1.srcnix.com/2010/02/10/7-tips-to-prevent-php-running-out-of-memory/
+
+http://hengrui-li.blogspot.jp/2011/08/understanding-php-memory-management.html
+
+http://blog.preinheimer.com/index.php?/archives/354-Memory-usage-in-PHP.html
+
+http://stackoverflow.com/questions/5928081/php-class-objects-and-memory-usage
+
+
+http://php.net/manual/en/features.gc.performance-considerations.php
